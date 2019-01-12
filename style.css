@@ -1,0 +1,224 @@
+*{
+font-family: 'Nanum Myeongjo', serif;
+}
+
+html,body{
+    margin: 1px;
+    padding: 1px;
+}
+
+.logo a img{
+    padding-left: 10%;
+}
+
+header{
+    background: url(header-Foto.jpg) no-repeat center right;
+    background-size:cover; 
+    width: 100%;
+    position: relative;
+
+};
+.container{
+    padding: 10px;
+}
+
+.container{
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle 
+}
+
+
+
+.first-block
+{
+    text-align: left;
+    margin-left: 10%;
+    font-weight:bold;
+    font-size:20px;
+    color:rgb(68,160,155);
+    margin-right: 40%;
+    width: 35%
+}
+.first-block1{
+    text-align:left;
+    margin-left: 10%;
+    font-size: 35px;
+    width: 45%;
+    font-weight:bold;
+}
+
+
+.registr{
+    background-color: white;
+    width: 35%;
+    border: 1px solid aqua;
+    border-radius: 0  50px 50px 0 ;
+    text-align: center;
+    
+}
+
+.data{
+    font-weight:bold;
+    color: #ff8141;
+    width: 90%;
+}
+
+.register-button{
+    border-radius: 50px 50px 50px 50px ;
+    background-color: #ff8141;
+    color: white;
+    margin-bottom: 3%;
+}
+
+.scroll{
+     text-align: center;
+     color: white;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     position: relative;
+     font-weight:bold;
+}
+
+.scroll::after{
+    content: "\25BD";
+    top: 0;
+    color: white;
+    font-size: 65px;
+}
+
+
+
+
+.lishky{
+     display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 10px;
+    background-color: white;
+    text-align: left;
+  
+}
+
+.registerations{
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: white;
+    width: 70%;
+    font-size: 25px;
+    background-color: #ff8141;
+    border-radius: 40px;
+    border: navajowhite;
+    width: 70%;
+    margin-right: 15%;
+
+}
+.registerations{
+    cursor: pointer; 
+    
+}
+
+
+.maincontain{
+    display: flex;   
+}
+
+ .playbutton
+{
+    position:relative;
+    height: 100%;
+    width: 100;
+   background: url()
+       
+}
+ .playbutton1{
+    background-color: #575656;
+    display: flex;
+    border-radius: 100px;
+    opacity: 0.7;
+    justify-content: center;
+    align-items: center;
+    position: relativ DOWNe;
+    height: 65px;
+    width: 65px;
+    position: absolute;
+    top: 45%;
+    left:45%;
+    
+     
+
+}
+
+
+h3{
+   margin-right: 35%;
+    position:relative;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.lishky{
+    width: 60% 
+}
+
+.list{
+    color: #575656;
+    position: relative;
+    margin-top: 10px;
+}
+
+
+.lil:before{
+     content: "\203A";
+    color:red;
+   
+}
+
+.lil{
+    margin-top: 2vh;
+    
+}
+
+.lil1:before{
+     margin-top: 2vh;
+   content: "\2764";
+    left: 5%;
+    top: 95%;
+    color: #fc5547;
+    
+  
+}
+.imgpl {
+    position:relative;
+   
+}
+.plimg {
+    position:absolute;
+    top: 65%;
+    left: 56%;
+    margin: -50px 0 0 -50px;
+    width: 25%;
+ 
+}
+
+
+footer {
+      
+        background-color: #273d50;;
+        text-align: center;
+        width: 100%;
+        padding: 10px;
+        margin: 0%;
+        
+    }
+
+footer h1{
+      color: white;
+      font-size: 42px;
+    
+}
+      
+
+
